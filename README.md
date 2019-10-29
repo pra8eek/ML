@@ -1,2 +1,2 @@
-# ML
-Nothing but implementation of basic ML concepts
+# Machine Learning
+Nothing but implementation of basic Machine Learning concepts
